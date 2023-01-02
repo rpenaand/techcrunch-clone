@@ -44,6 +44,7 @@ ul {
 }
 
 span {
+  display: inline-block;
   font-size: 1.4rem;
   font-weight: 600;
 }
@@ -67,6 +68,12 @@ main {
 
 aside {
   width: 35%;
+}
+
+/* -----------------Main Section Styles------------------ */
+
+.img {
+  width: 100%;
 }
 
 /* -----------------Nav Styles------------------ */
